@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+*.xcuserstate
+xcuserdata/
+.env
+DerivedData/
+docs/specs/
+docs/plans/
+.sunny/
+
+# kept on disk, out of the repo: design work and docs
+design/
+docs/
