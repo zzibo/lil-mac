@@ -31,10 +31,10 @@ iOS has no always-on process, and most agent frameworks assume a server. Lil Mac
 
 ## Install
 
-In Xcode, choose **File › Add Package Dependencies…** and enter `https://github.com/OWNER/lil-mac`. Or add it to `Package.swift`:
+In Xcode, choose **File › Add Package Dependencies…** and enter `https://github.com/zzibo/lil-mac`. Or add it to `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/OWNER/lil-mac", from: "0.1.0")
+.package(url: "https://github.com/zzibo/lil-mac", from: "0.1.0")
 ```
 
 | Product | Contains |
